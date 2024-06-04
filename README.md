@@ -3,15 +3,15 @@ Iowa is an alcohol beverage control state, which means that the state has a mono
 
 Now, the Iowa state government wants to analyze its past data to reward its purchasers.​ Also, to forecast future outcomes.​
 
-#Objectives
+# Objectives
 
-##Analyzing the past data :​
+## Analyzing the past data :​
 - Examine and analyze the entire Iowa liquor sales data set. ​
 - Find the best liquor category by volume sold, Sales (dollars), and profit (dollars)​
 - Find the monthly best vendor based on volume purchased, Sales (dollars), and profit(dollars). Iowa government can give some monthly rewards to its best vendors.​
 - Perform a time series analysis between essential features to identify the pattern.
   
-##Future forecast :​
+## Future forecast :​
 - Build a model to forecast daily liquor sales (in dollars) from the Iowa government.​
 - Build a model to predict the daily liquor volume sold by the Iowa government. ​
 - Build a model to predict the profit (in dollars) or profit percentage by liquor of sale on a daily basis. ​
